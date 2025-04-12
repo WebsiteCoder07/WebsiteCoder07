@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 
 Tech Stack
 
-https://acrobat.adobe.com/id/urn:aaid:sc:ap:8a3b9471-752a-425b-a85f-0b8a761fa67d
+
